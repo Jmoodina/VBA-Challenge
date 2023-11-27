@@ -3,6 +3,23 @@
 ## Overview:
 The goal of this project was to create a VBA script that analyzes stock data for multiple years. The script calculates and outputs the yearly change, percentage change, and total stock volume for each stock. Additionally, it identifies the stocks with the greatest percentage increase, greatest percentage decrease, and greatest total volume. The script has been designed to run on every worksheet (representing each year's data) and uses conditional formatting to highlight positive and negative changes.
 
+## Execution
+1. Iterate Through All Stocks for One Year:
+The VBA script employs a looping mechanism to traverse through each stock's data for a specific year.
+Calculates and outputs the yearly change, percentage change, and total stock volume for each stock.
+
+2. Identify "Greatest" Metrics:
+The script determines, for each year, the stocks with the highest percentage increase, greatest percentage decrease, and greatest total volume.
+Stores and outputs the relevant information for these exceptional cases.
+
+3. Run on Every Worksheet:
+Adjustments were made to the script to ensure its compatibility with each worksheet, representing data for different years.
+The script iterates through all sheets, performing the analysis consistently for each.
+
+4. Apply Conditional Formatting:
+Conditional formatting enhances the visual representation of results.
+Positive changes are highlighted in green, while negative changes are highlighted in red, providing a quick and clear overview.
+
 ## Results:
 
 The script successfully analyzes stock data for every year, providing comprehensive information on each stock's performance.
