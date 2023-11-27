@@ -25,10 +25,13 @@ Positive changes are highlighted in green, while negative changes are highlighte
 The script successfully analyzes stock data for every year, providing comprehensive information on each stock's performance.
 The identified "Greatest" metrics offer insights into notable stock trends for each year.
 
+### 2018 Stock Results
 ![2018 stock solution screenshot](https://github.com/Jmoodina/VBA-Challenge/assets/141544196/cdbb4c77-5ba6-4eb8-8019-b03c22fe8119)
 
+### 2019 Stock Results
 ![2019 Stock solution Screenshot](https://github.com/Jmoodina/VBA-Challenge/assets/141544196/b8a5ba5e-8c36-46b6-b75a-f0befe77f445)
 
+### 2020 Stock Results
 ![2020 Stock solution Screenshot](https://github.com/Jmoodina/VBA-Challenge/assets/141544196/1749b8e2-1f43-4536-92de-828276347f02)
 
 ## Performance:
